@@ -24,4 +24,10 @@
 )**  :pushpin:
 4. **Fazer o curso a seguir e entregar o projeto do seguinte curso: Iniciando com ASP.NET Core --> [Link do Curso](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core)** :pushpin:
 
-**:round_pushpin: As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui neste repositório é possível encontrar o resultado final da (Tarefa de número 1, Tarefa de número 2 e a Tarefa de número 4) e capturas de tela de ambas as tarefas.**
+**:white_check_mark: As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui neste repositório é possível encontrar o resultado final da (Tarefa de número 1, Tarefa de número 2 e a Tarefa de número 4) e capturas de tela de ambas as tarefas.**
+
+:information_source: **Para executar todas essas aplicações foram necessárias algumas ferramentas, uma delas é o Visual Studio Code e a outra o Dotnet SDK 5.0. Na pasta "pacotes", terá tudo que é preciso para você também colocar em prática o uso do ASP.NET Core MVC, ou se preferir, acesse os links abaixo e faça o download de tudo você mesmo!**
+
+:link: **Visual Studio Code - (https://code.visualstudio.com/Download)**
+
+:link: **Dotnet SDK 5.0 - (https://dotnet.microsoft.com/download/dotnet/5.0)**
