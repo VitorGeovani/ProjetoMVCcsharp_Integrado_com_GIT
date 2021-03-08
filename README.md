@@ -14,3 +14,5 @@
  :pushpin: **Controladora - A Controladora (controller), como o nome já sugere, é responsável por controlar todo o fluxo de informação que passa pelo site/sistema. É na controladora que se decide “se”, “o que”, “quando” e “onde” deve funcionar. Define quais informações devem ser geradas, quais regras devem ser acionadas e para onde as informações devem ir, é na controladora que essas operações devem ser executadas. Em resumo, é a controladora que executa uma regra de negócio (modelo) e repassa a informação para a visualização (visão).**
 
 :newspaper: **Para mais detalhes do que é o MVC, acesse o artigo da Oficina da Net ---> [Link do Artigo](https://www.oficinadanet.com.br/artigo/desenvolvimento/o_que_e_model-view-controller_mvc)**
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------**
