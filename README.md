@@ -15,7 +15,7 @@
 
 :newspaper: **Para mais detalhes do que é o MVC, acesse o artigo da Oficina da Net ---> [Link do Artigo](https://www.oficinadanet.com.br/artigo/desenvolvimento/o_que_e_model-view-controller_mvc)**
 
-**----------------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------**
 
 **Foram requisitadas quatro tarefas, sendo elas:**
 1. **Concluir o tutorial: Introdução ao ASP.NET Core MVC** :pushpin:
